@@ -16,7 +16,7 @@ okorojionly@gmail.com
 - ### **[Queue](queue.md)**
 
 
-- ### **[Sets](sets.md)**
+- ### **[Linked List](linked.md)**
 
 ### **Tree**
 -	Introduction
